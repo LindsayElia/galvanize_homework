@@ -44,13 +44,20 @@ need an x axis and a y axis
 */
 
 
+// I couldn't get this to work :(
+// I don't know what the logic should be to get it to print 
+// and concatenate and loop and start on the correct option, space or #.
+// I tried putting a loop inside of a loop. The closest I got to 
+// solving was printing out 81 lines of " " but I was expecting to 
+// see 64 lines. I used 8 as my input.
+
 var numberInput = 8;
 var i = 0;
 
 while (i < numberInput) {
 	row = " ";
 		while (i < numberInput) {
-			row = row + "#";
+			row = row + " #";
 		i++;
 		}
 	}
