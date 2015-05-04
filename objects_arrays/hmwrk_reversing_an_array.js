@@ -52,7 +52,8 @@ do the same as reverseArray except pop the last item off and redefine
 the array...doesn't work?
 */
 
-// this does not work :(
+
+/* I could not get the reverseArrayInPlace to work
 
 var reverseArrayInPlace = function(input){
 	var holder = [];
@@ -75,7 +76,7 @@ reverseArrayInPlace(arrayValue);
 console.log(arrayValue);
 // → [5, 4, 3, 2, 1]
 
-
+*/
 
 
 
