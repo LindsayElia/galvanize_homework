@@ -66,8 +66,45 @@ console.log(row);
 
 
 
+// for loop that goes down
+
+var input = 10;
+var num = input //do something to input here
+
+//	for loop that goes across 
+for (num = 0; num < input;) {
+		if (num = even){
+			console.log(" ");
+		} 
+		else {
+			console.log("#");
+		}
+		num++;
+	}
+
+// change x to y
 
 
+
+
+	var input = 10;
+	var num = input //do something to input here
+
+	//	for loop that goes across 
+	for (num = 0; num < input;) {
+			if (num = even){
+				console.log(" ");
+			} 
+			else {
+				console.log("#");
+			}
+			num++;
+		}
+		
+		
+		
+// create a variable to fill with your grid - 'var grid'
+// console.log var grid at the end
 
 
 

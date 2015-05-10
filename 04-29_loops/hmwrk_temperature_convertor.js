@@ -35,6 +35,11 @@ var temperature = prompt("Please give me the temperature in Celsius.", " ");
 temperature = ((temperature * 9)/5)+32;
 
 
+
+
+
+
+
 //Bonus Answer:
 
 var type = prompt("Would you like to start with Celsius or Fahrenheit? Type \"C\" for Celsius and \"F\" for Fahrenheit.");
@@ -52,4 +57,23 @@ else if (type === "F"){
 else {
 	prompt("Sorry, that was not a capital C or capital F. You will need to run this program again.");
 }
+
+
+
+// degree symbol for Celsius & Fahrenheit in text is 'option + 0' ººººººº
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
