@@ -8,7 +8,7 @@ returns the sum of all digits between 0 and x.
 
 */
 
-	
+
 var sumOfRange = function(x){
 	if (x === 0 || x === 1){		// base cases
 		return x;
