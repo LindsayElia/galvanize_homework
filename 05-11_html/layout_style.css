@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #333;
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	margin: 0 0 20px 0;
+	padding: 0 0 20px 0;
+	width: 100%;
+	background: #7ab474;
+}
+
+main {
+	margin: 0px 25%;
+}
+
+h1 {
+	font-family: 'Arvo', serif;;
+	margin: 15px 0;
+	font-size: 5em;
+	font-weight: bold;
+	line-height: 0.8em;
+}
+
+h2, h4 {
+	font-family: 'Arvo', serif;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+/* links */
+a, a:visited, a.selected, a:hover {
+	color: #7ab474;
+}
